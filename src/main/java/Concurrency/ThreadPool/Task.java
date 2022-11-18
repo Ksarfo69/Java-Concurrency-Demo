@@ -1,4 +1,4 @@
-package Concurrency;
+package Concurrency.ThreadPool;
 
 public class Task
 {

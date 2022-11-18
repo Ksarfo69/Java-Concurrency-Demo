@@ -1,4 +1,4 @@
-package Concurrency;
+package Concurrency.Threads;
 
 public class ThreadCounter extends Thread{
 

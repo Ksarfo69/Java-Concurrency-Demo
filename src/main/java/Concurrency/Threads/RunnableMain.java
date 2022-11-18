@@ -1,4 +1,4 @@
-package Concurrency;
+package Concurrency.Threads;
 
 import java.util.Objects;
 import java.util.Scanner;

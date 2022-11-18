@@ -1,4 +1,4 @@
-package Concurrency;
+package Concurrency.ThreadPool;
 
 import java.util.Random;
 
